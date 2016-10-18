@@ -25,3 +25,12 @@ libpng
 Jasper or OpenJPEG
 
 ===============================================================================
+
+On OS X
+
+    brew install autotools
+    brew install openjpeg
+    ./autogen
+    ./configure
+    make
+
